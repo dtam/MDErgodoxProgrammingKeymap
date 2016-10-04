@@ -4,7 +4,7 @@
         "Layout": "Default",
         "Base": "Blank",
         "Version": "0.1",
-        "Author": "HaaTa (Jacob Alexander) 2015",
+        "Author": "DTam",
         "KLL": "0.3c",
         "Date": "2015-09-12",
         "Generator": "KIICONF 0.2"
@@ -872,8 +872,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RALT",
-                    "label": "RALT"
+                    "key": "CONS:PLAY",
+                    "label": "PLAY"
                 }
             }
         },
@@ -885,8 +885,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RCTRL",
-                    "label": "RCTRL"
+                    "key": "CONS:PAUSE",
+                    "label": "PAUSE"
                 }
             }
         },
